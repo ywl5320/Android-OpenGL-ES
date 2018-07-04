@@ -1,6 +1,10 @@
 # Android-OpenGL-ES
-### Android��OpenGL ES��v2.0����ʹ�÷�����ʵ��
-## ���͵�ַ��
-### [Android OpenGL ES ������һ���� ��ʶOpenGL ES](https://blog.csdn.net/ywl5320/article/details/80920830)
+
+## [我的视频课程（基础）：《（NDK）FFmpeg打造Android万能音频播放器》](https://edu.csdn.net/course/detail/6842)
+## [我的视频课程（进阶）：《（NDK）FFmpeg打造Android视频播放器》](https://edu.csdn.net/course/detail/8036)
+
+### Android中OpenGL ES（v2.0）的使用方法和实例
+### 博客地址：
+### [Android OpenGL ES 开发（一）— 初识OpenGL ES](https://blog.csdn.net/ywl5320/article/details/80920830)
 
 ### Create By ywl5320
