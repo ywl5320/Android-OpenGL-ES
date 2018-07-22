@@ -7,6 +7,6 @@
 ### 博客地址：
 ### [Android OpenGL ES 开发（一）— 环境搭建](https://blog.csdn.net/ywl5320/article/details/80920830)
 ### [Android OpenGL ES 开发（二）— 绘制三角形](https://blog.csdn.net/ywl5320/article/details/80964212)
-### [Android OpenGL ES 开发（三）— 绘制多边形](https://blog.csdn.net/ywl5320/article/details/81161147)
+### [Android OpenGL ES 开发（三）— 绘制四边形](https://blog.csdn.net/ywl5320/article/details/81161147)
 
 ### Create By ywl5320
